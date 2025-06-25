@@ -1,4 +1,4 @@
-# ai-recognise
+# ai-image-detection
 
 This project explores real-time object detection using YOLOv8 with a FastAPI backend.
 
